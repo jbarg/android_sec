@@ -1,0 +1,12 @@
+[submodule "qark"]
+	path = qark
+	url = https://github.com/linkedin/qark
+[submodule "drozer"]
+	path = drozer
+	url = https://github.com/mwrlabs/drozer
+[submodule "needle_ios"]
+	path = needle_ios
+	url = https://github.com/mwrlabs/needle
+[submodule "Mobile-Security-Framework-MobSF"]
+	path = Mobile-Security-Framework-MobSF
+	url = https://github.com/ajinabraham/Mobile-Security-Framework-MobSF
